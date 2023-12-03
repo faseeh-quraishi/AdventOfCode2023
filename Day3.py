@@ -1,4 +1,4 @@
-# Note: Not solution and Task2 not done yet
+
     
 from _READFILE import FileToList
 path = 'Day3.txt'
@@ -109,5 +109,5 @@ def Task1(content):
     print(len(cordinatesOfSybmbols))
     print(len(numbers))
 
-
+# Note: Not complete solution and Task2 is also missing
 Task1(content)
