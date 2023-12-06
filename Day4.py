@@ -31,6 +31,7 @@ def Task1(content):
 
 
 Task1(content)
+
 def Task2(content):
     dictOfInstance = {}
 
